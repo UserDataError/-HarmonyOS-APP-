@@ -1,0 +1,13 @@
+{
+  "modelVersion": "5.0.1",
+  "description": "Please describe the basic information.",
+  "dependencies": {
+    "@ohos/httpclient": "^2.0.4",
+    "cjcalendar": "^2.2.8"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.21",
+    "@ohos/hamock": "1.0.0"
+  },
+  "dynamicDependencies": {}
+}

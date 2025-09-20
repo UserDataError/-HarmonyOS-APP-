@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Welcome",
+    "pages/LoginPage",
+    "pages/MyPage",
+    "pages/VIPPage",
+    "pages/PlanPage",
+    "pages/RegisterPage",
+    "pages/AboutPage",
+    "pages/SuggestPage",
+    "pages/HelpPage"
+  ]
+}
